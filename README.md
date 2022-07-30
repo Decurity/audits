@@ -5,4 +5,4 @@
 * [OracleDAO](https://github.com/decurity/audits/blob/master/OracleDAO/oracle-dao-security-audit-report-1.0.pdf)
 * [TON Cash](https://github.com/decurity/audits/blob/master/TON/ton-verification-report-1.1.pdf)
 * [Tethys Finance](https://github.com/decurity/audits/blob/master/TethysFinance/tethys-finance-security-audit-report-1.0.pdf)
-
+* [Yearn](https://github.com/decurity/audits/blob/master/Yearn/yearn-univ3stablesjoint-audit-report-1.0.pdf)
