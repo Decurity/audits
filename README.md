@@ -1,10 +1,11 @@
 # Decurity audits
 
-* 1inch (Multiple audits to be disclosed soon)
 * Symbiosis Finance (Multiple audits to be disclosed)
 * Dyson Finance (To be disclosed soon)
 * Tokenlon (To be disclosed soon)
 * Compound (Security tool research report to be disclosed)
+* [1inch (Fusion) alpha](https://github.com/decurity/audits/blob/master/1inch/1inch_FusionMode_Decurity.1.pdf)
+* [1inch (Fusion) release](https://github.com/decurity/audits/blob/master/1inch/1inch_FusionMode_Decurity.1.pdf)
 * [1inch (farming)](https://github.com/decurity/audits/blob/master/1inch/1inch-farming-audit-1.0.pdf)
 * [Yearn](https://github.com/decurity/audits/blob/master/Yearn/yearn-univ3stablesjoint-audit-report-1.0.pdf)
 * [TON Cash](https://github.com/decurity/audits/blob/master/TON/ton-verification-report-1.1.pdf)
