@@ -1,12 +1,12 @@
 # Decurity audits
 
 * Dyson Finance (To be disclosed soon)
-* Tokenlon (To be disclosed soon)
 * Compound (Security tool research report to be disclosed)
+* [Tokenlon Limit Order Protocol](https://github.com/decurity/audits/blob/master/tokenlon/tokenlon-limit-order-audit-report-1.1.pdf)
 * [1inch (Fusion) alpha](https://github.com/decurity/audits/blob/master/1inch/1inch-fusion-mode-audit-report-1.1.pdf)
 * [1inch (Fusion) release](https://github.com/decurity/audits/blob/master/1inch/1inch-fusion-mode-audit-report-2.1.pdf)
-* [1inch (farming)](https://github.com/decurity/audits/blob/master/1inch/1inch-farming-audit-1.0.pdf)
-* [Yearn](https://github.com/decurity/audits/blob/master/Yearn/yearn-univ3stablesjoint-audit-report-1.0.pdf)
+* [1inch (Multi Farming)](https://github.com/decurity/audits/blob/master/1inch/1inch-farming-audit-report-1.0.pdf)
+* [Yearn No Hedge Joint Strategy](https://github.com/decurity/audits/blob/master/Yearn/yearn-univ3stablesjoint-audit-report-1.0.pdf)
 * [Symbiosis Finance relayers](https://github.com/decurity/audits/blob/master/Symbiosis/symbiosis-finance-relayers-audit-report-1.1.pdf)
 * [Symbiosis Finance frontend](https://github.com/decurity/audits/blob/master/Symbiosis/symbiosis-finance-frontend-audit-report-1.1.pdf)
 * [Everscale (FreeTON) Cash](https://github.com/decurity/audits/blob/master/TON/ton-verification-report-1.1.pdf)
