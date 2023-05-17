@@ -1,5 +1,6 @@
 # Decurity audits
 
+* [zkBob (CDP and Pool)](https://github.com/decurity/audits/blob/master/zkbob/zkbob-contracts-cdp-audit-report-1.1.pdf)
 * [Thales Market (Liquidity Pool)](https://github.com/decurity/audits/blob/master/tokenlon/thales-market-liquidity-pool-audit-report-1.1.pdf)
 * 1inch (Fusion v2) (TBD)
 * 1inch (Aggregation Router v6) (TBD)
