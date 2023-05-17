@@ -1,11 +1,11 @@
 # Decurity audits
 
-* [zkBob (CDP and Pool)](https://github.com/decurity/audits/blob/master/zkbob/zkbob-contracts-cdp-audit-report-1.1.pdf)
+* [zkBob (CDP and Pool)](https://github.com/decurity/audits/blob/master/zkBob/zkbob-contracts-cdp-audit-report-1.1.pdf)
 * [Thales Market (Liquidity Pool)](https://github.com/decurity/audits/blob/master/tokenlon/thales-market-liquidity-pool-audit-report-1.1.pdf)
 * 1inch (Fusion v2) (TBD)
 * 1inch (Aggregation Router v6) (TBD)
 * Compound (Security tool research report to be disclosed)
-* [Tokenlon Limit Order Protocol](https://github.com/decurity/audits/blob/master/tokenlon/tokenlon-limit-order-audit-report-1.1.pdf)
+* [Tokenlon Limit Order Protocol](https://github.com/decurity/audits/blob/master/Tokenlon/tokenlon-limit-order-audit-report-1.1.pdf)
 * [1inch (Fusion release)](https://github.com/decurity/audits/blob/master/1inch/1inch-fusion-mode-audit-report-2.1.pdf)
 * [1inch (Multi Farming)](https://github.com/decurity/audits/blob/master/1inch/1inch-farming-audit-report-1.0.pdf)
 * [1inch (Fusion alpha)](https://github.com/decurity/audits/blob/master/1inch/1inch-fusion-mode-audit-report-1.1.pdf)
