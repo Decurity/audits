@@ -16,7 +16,7 @@
 | [Compound (Comet, v3)](https://github.com/compound-finance/comet/pull/742)                                                                  | `DevSecOps`, `Semgrep`, `Lending`                | March 2023     |
 | EAST (v2)                                                                                                                                   | `Docker`, `CDP`, `TypeScript`, `Scala`           | March 2023     |
 | NDA                                                                                                                                         | `Avalanche`, `Golang`                            | February 2023  |
-| [Tokenlon Limit Order Protocol](https://github.com/decurity/audits/blob/master/Tokenlon/tokenlon-limit-order-audit-report-1.1.pdf)          | `DEX`, `Solidity`                                | January 2023   |
+| [Tokenlon (Limit Order Protocol)](https://github.com/decurity/audits/blob/master/Tokenlon/tokenlon-limit-order-audit-report-1.1.pdf)        | `DEX`, `Solidity`                                | January 2023   |
 | [Symbiosis Finance (relayers)](https://github.com/decurity/audits/blob/master/Symbiosis/symbiosis-finance-relayers-audit-report-1.1.pdf)    | `Bridge`, `MPC`, `DKG`, `Golang`                 | December 2022  |
 | NDA                                                                                                                                         | `Perpetual`, `Arbitrum`, `Monitoring`            | December 2022  |
 | [1inch (Fusion release)](https://github.com/decurity/audits/blob/master/1inch/1inch-fusion-mode-audit-report-2.1.pdf)                       | `DEX`, `Solidity`                                | November 2022  |
