@@ -12,9 +12,9 @@
 | 1inch (NDA)                                                                                                                                 | `DEX`, `Solidity`, `Yul`                         | April 2023     |
 | 1inch (NDA)                                                                                                                                 | `DEX`, `Solidity`, `Yul`                         | April 2023     |
 | Defexa (Wallet)                                                                                                                             | `iOS`, `Android`, `Wallet`                       | April 2023     |
-| NDA                                                                                                                                         | `Avalanche`, `Golang`                            | April 2023     |
+| NDA                                                                                                                                         | `L1`, `Avalanche`, `Golang`                      | April 2023     |
 | [Compound (Comet, v3)](https://github.com/compound-finance/comet/pull/742)                                                                  | `DevSecOps`, `Semgrep`, `Lending`                | March 2023     |
-| EAST v2                                                                                                                                     | `Docker`, `CDP`, `TypeScript`, `Scala`           | March 2023     |
+| EAST (v2)                                                                                                                                   | `Docker`, `CDP`, `TypeScript`, `Scala`           | March 2023     |
 | NDA                                                                                                                                         | `Avalanche`, `Golang`                            | February 2023  |
 | [Tokenlon Limit Order Protocol](https://github.com/decurity/audits/blob/master/Tokenlon/tokenlon-limit-order-audit-report-1.1.pdf)          | `DEX`, `Solidity`                                | January 2023   |
 | [Symbiosis Finance (relayers)](https://github.com/decurity/audits/blob/master/Symbiosis/symbiosis-finance-relayers-audit-report-1.1.pdf)    | `Bridge`, `MPC`, `DKG`, `Golang`                 | December 2022  |
@@ -31,8 +31,9 @@
 | NDA                                                                                                                                         | `L2`, `Bridge`, `Golang`, `Solidity`             | June 2022      |
 | NDA                                                                                                                                         | `ZK`, `dApp`, `JS`                               | May 2022       |
 | [OracleDAO](https://github.com/decurity/audits/blob/master/OracleDAO/oracle-dao-security-audit-report-1.0.pdf)                              | `Staking`, `Solidity`                            | April 2022     |
+| NDA                                                                                                                                         | `L1`, `Rust`                                     | April 2022     |
 | [Symbiosis Finance (frontend)](https://github.com/decurity/audits/blob/master/Symbiosis/symbiosis-finance-frontend-audit-report-1.1.pdf)    | `dApp`, `Bridge`, `Web`, `JS`                    | March 2022     |
 | [Monkey Kingdom](https://github.com/decurity/audits/blob/master/MonkeyKingdom/monkeykingdom-security-audit-report-1.0.pdf)                  | `Bridge`, `NFT`, `Solidity`, `Solana`            | March 2022     |
 | [Tethys Finance](https://github.com/decurity/audits/blob/master/TethysFinance/tethys-finance-security-audit-report-1.0.pdf)                 | `Staking`, `Solidity`                            | December 2021  |
-| [East Finance (v1)](https://github.com/decurity/audits/blob/master/EastFinance/east-finance-audit-report-1.0.pdf)                           | `Docker`, `CDP`, `TypeScript`, `Scala`           | September 2021 |
+| [EAST (v1)](https://github.com/decurity/audits/blob/master/EastFinance/east-finance-audit-report-1.0.pdf)                                   | `Docker`, `CDP`, `TypeScript`, `Scala`           | September 2021 |
 | [Everscale (FreeTON Cash)](https://github.com/decurity/audits/blob/master/TON/ton-verification-report-1.1.pdf)                              | `C++`, `Formal Verification`, `TON`, `Everscale` | December 2020  |
