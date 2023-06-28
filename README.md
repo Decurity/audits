@@ -13,7 +13,7 @@
 | 1inch (NDA)                                                                                                                                 | `DEX`, `Solidity`, `Yul`                         | April 2023     |
 | Defexa (Wallet)                                                                                                                             | `iOS`, `Android`, `Wallet`                       | April 2023     |
 | NDA                                                                                                                                         | `Avalanche`, `Golang`                            | April 2023     |
-| Compound (Comet, v3)                                                                                                                        | `DevSecOps`, `Semgrep`, `Lending`                | March 2023     |
+| [Compound (Comet, v3)](https://github.com/compound-finance/comet/pull/742)                                                                  | `DevSecOps`, `Semgrep`, `Lending`                | March 2023     |
 | EAST v2                                                                                                                                     | `Docker`, `CDP`, `TypeScript`, `Scala`           | March 2023     |
 | NDA                                                                                                                                         | `Avalanche`, `Golang`                            | February 2023  |
 | [Tokenlon Limit Order Protocol](https://github.com/decurity/audits/blob/master/Tokenlon/tokenlon-limit-order-audit-report-1.1.pdf)          | `DEX`, `Solidity`                                | January 2023   |
