@@ -6,7 +6,7 @@
 | [zkBob (CDP and Pool)](https://github.com/decurity/audits/blob/master/zkBob/zkbob-contracts-cdp-audit-report-1.1.pdf)                       | `ZK`, `CDP`, `Solidity`                          | May 2023       |
 | [Tokenlon (RFQ v2)](https://github.com/decurity/audits/blob/master/Tokenlon/tokenlon-rfqv2-audit-report-1.1.pdf)                            | `DEX`, `Solidity`                                | May 2023       |
 | [Thales Market (Liquidity Pool)](https://github.com/decurity/audits/blob/master/tokenlon/thales-market-liquidity-pool-audit-report-1.1.pdf) | `Solidity`                                       | May 2023       |
-| Collectif DAO                                                                                                                               | `LSD`, `Solidity`                                | May 2023       |
+| [Collectif DAO](https://github.com/Decurity/audits/blob/master/CollectifDAO/collectif-dao-audit-report-1.2.pdf)                             | `LSD`, `Solidity`                                | May 2023       |
 | NDA                                                                                                                                         | `API`, `Wallet`, `Web`                           | May 2023       |
 | 1inch (NDA)                                                                                                                                 | `Solidity`, `Yul`                                | May 2023       |
 | 1inch (NDA)                                                                                                                                 | `DEX`, `Solidity`, `Yul`                         | April 2023     |
