@@ -2,6 +2,11 @@
 
 | Engagement / Report                                                                                                                         | Tags                                             | Date           |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------|
+| Tokenlon (RFQ v2 update)                            | `DEX`, `Solidity`                                | August 2023       |
+| [Thales Market (SpeedMarkets)](https://github.com/decurity/audits/blob/master/tokenlon/thales-market-speedmarkets-audit-report-1.1.pdf) | `DEX`, `Solidity`                                       | August 2023       |
+| Aqueduct Finance                                                                                                                            | `DEX`, `TWAP`, `Uniswap`, `Solidity`                     | August 2023    |
+| Vooi App                                                                                                                                    | `DEX`, `Solidity`                                | August 2023    |
+| Tokenlon (Limit Order Protocol v6)                            | `DEX`, `Solidity`                                | July 2023       |
 | NDA                                                                                                                                         | `ENS`, `NFT`, `Solidity`                         | June 2023      |
 | [zkBob (CDP and Pool)](https://github.com/decurity/audits/blob/master/zkBob/zkbob-contracts-cdp-audit-report-1.1.pdf)                       | `ZK`, `CDP`, `Solidity`                          | May 2023       |
 | [Tokenlon (RFQ v2)](https://github.com/decurity/audits/blob/master/Tokenlon/tokenlon-rfqv2-audit-report-1.1.pdf)                            | `DEX`, `Solidity`                                | May 2023       |
