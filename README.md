@@ -2,6 +2,11 @@
 
 | Engagement / Report                                                                                                                         | Tags                                             | Date           |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------|
+| [Bebop JAM](https://github.com/Decurity/audits/blob/master/Bebop/bebop-jam-audit-report-1.1.pdf)                            | `DEX`, `Solidity`                                | November 2023       |
+| NDA                            | `Governance`, `Timelock`, `Solidity`                                | November 2023       |
+| NDA                            | `On-ramp`, `Off-ramp`, `Web`, `API`                                | November 2023       |
+| NDA                            | `CEX`, `Web`, `API`, `Custody`                                | October 2023       |
+| Symbiosis Finance   | `DEX`, `Solidity`                 | September 2023  |
 | [Vooi (Pool)](https://github.com/Decurity/audits/blob/master/Vooi/vooi-pool-security-audit-report-1.1.pdf)                            | `DEX`, `Solidity`                                | August 2023       |
 | Tokenlon (RFQ v2 update)                            | `DEX`, `Solidity`                                | August 2023       |
 | [Thales Market (SpeedMarkets)](https://github.com/decurity/audits/blob/master/ThalesMarket/thales-market-speedmarkets-audit-report-1.1.pdf) | `DEX`, `Solidity`                                       | August 2023       |
