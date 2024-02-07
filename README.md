@@ -3,7 +3,7 @@
 | Engagement / Report                                                                                                                         | Tags                                             | Date           |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------|
 | [Bebop JAM](https://github.com/Decurity/audits/blob/master/Bebop/bebop-jam-audit-report-1.1.pdf)                            | `DEX`, `Solidity`                                | November 2023       |
-| NDA                            | `Governance`, `Timelock`, `Solidity`                                | November 2023       |
+| [Gearbox](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-governor-v3-audit-report-1.0.pdf)                            | `Governance`, `Timelock`, `Solidity`                                | November 2023       |
 | NDA                            | `On-ramp`, `Off-ramp`, `Web`, `API`                                | November 2023       |
 | NDA                            | `CEX`, `Web`, `API`, `Custody`                                | October 2023       |
 | Symbiosis Finance   | `DEX`, `Solidity`                 | September 2023  |
