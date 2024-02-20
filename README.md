@@ -8,10 +8,10 @@
 | NDA                            | `On-ramp`, `Off-ramp`, `Payments`, `Web`, `API`                                | February 2024       |
 | NDA                            | `CEX`, `Web`, `API`                                | January 2024       |
 | UnoRe                            | `Insurance`, `Solidity`                                | December 2023       |
-| NDA                            | `Farming`, `Asset Management`, `Solidity`                                | December 2023       |
+| [UFarm](https://github.com/Decurity/audits/blob/master/UFarm/ufarm-audit-report-2023-1.1.pdf)                            | `Farming`, `Asset Management`, `Solidity`                                | December 2023       |
 | 1inch (NDA)                            | `DEX`, `Solidity`                                | November 2023       |
 | [Bebop JAM](https://github.com/Decurity/audits/blob/master/Bebop/bebop-jam-audit-report-1.1.pdf)                            | `DEX`, `Solidity`                                | November 2023       |
-| [Gearbox](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-governor-v3-audit-report-1.0.pdf)                            | `Governance`, `Timelock`, `Solidity`                                | November 2023       |
+| [Gearbox (Governor V3)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-governor-v3-audit-report-1.0.pdf)                            | `Governance`, `Timelock`, `Solidity`                                | November 2023       |
 | NDA                            | `On-ramp`, `Off-ramp`, `Web`, `API`                                | November 2023       |
 | NDA                            | `CEX`, `Web`, `API`, `Custody`                                | October 2023       |
 | Symbiosis Finance   | `DEX`, `Solidity`                 | September 2023  |
