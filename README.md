@@ -41,7 +41,7 @@
 | [Collectif DAO](https://github.com/Decurity/audits/blob/master/CollectifDAO/collectif-dao-audit-report-1.2.pdf)                             | `LSD`, `Solidity`                                | May 2023       |
 | NDA                                                                                                                                         | `API`, `Wallet`, `Web`                           | May 2023       |
 | 1inch                                                                                                                                 | `Solidity`, `Yul`                                | May 2023       |
-| 1inch                                                                                                                                 | `DEX`, `Solidity`, `Yul`                         | April 2023     |
+| [1inch (Aggregation Router v6)](https://github.com/decurity/audits/blob/master/1inch/1inch-aggregation-router-v6-audit-report-2023-1.1.pdf)                                                                       | `DEX`, `Solidity`, `Yul`                         | April 2023     |
 | 1inch                                                                                                                                 | `DEX`, `Solidity`, `Yul`                         | April 2023     |
 | Defexa (Wallet)                                                                                                                             | `iOS`, `Android`, `Wallet`                       | April 2023     |
 | NDA                                                                                                                                         | `L1`, `Avalanche`, `Golang`                      | April 2023     |
