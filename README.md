@@ -2,6 +2,13 @@
 
 | Engagement / Report                                                                                                                         | Tags                                             | Date           |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------|
+| NDA                            | `Staking`, `Go`, `TypeScript`, `Web`                                | May 2024       |
+| NDA                                                     | `LRT`, `Risk Assessment`, `Monitoring`            | December 2022  |
+| Clearpool                            | `Lending`, `Solidity`                                | May 2024       |
+| NDA                            | `Lending`, `Solidity`                                | April 2024       |
+| NDA                            | `Staking`, `Solidity`                                | April 2024       |
+| Socket.Tech                            | `DEX`, `Solidity`                                | April 2024       |
+| Ether.Fi                            | `LRT`, `Solidity`                                | April 2024       |
 | Socket.Tech                            | `DEX`, `Solidity`                                | March 2024       |
 | [1inch (Fusion v2)](https://github.com/decurity/audits/blob/master/1inch/1inch-fusion-v2-audit-report-1.1.pdf)                            | `DEX`, `Solidity`                                | March 2024       |
 | NDA                            | `Web`, `API`, `Sandbox`                                | March 2024       |
@@ -43,7 +50,7 @@
 | NDA                                                                                                                                         | `Avalanche`, `Golang`                            | February 2023  |
 | [Tokenlon (Limit Order Protocol)](https://github.com/decurity/audits/blob/master/Tokenlon/tokenlon-limit-order-audit-report-1.1.pdf)        | `DEX`, `Solidity`                                | January 2023   |
 | [Symbiosis Finance (relayers)](https://github.com/decurity/audits/blob/master/Symbiosis/symbiosis-finance-relayers-audit-report-1.1.pdf)    | `Bridge`, `MPC`, `DKG`, `Golang`                 | December 2022  |
-| NDA                                                                                                                                         | `Perpetual`, `Arbitrum`, `Monitoring`            | December 2022  |
+| GMX                              | `Perpetual`, `Risk Assessment`, `Arbitrum`, `Monitoring`            | December 2022  |
 | [1inch (Fusion release)](https://github.com/decurity/audits/blob/master/1inch/1inch-fusion-mode-audit-report-2.1.pdf)                       | `DEX`, `Solidity`                                | November 2022  |
 | [1inch (Multi Farming)](https://github.com/decurity/audits/blob/master/1inch/1inch-farming-audit-report-1.0.pdf)                            | `Staking`, `Solidity`                            | November 2022  |
 | [1inch (Fusion alpha)](https://github.com/decurity/audits/blob/master/1inch/1inch-fusion-mode-audit-report-1.1.pdf)                         | `DEX`, `Solidity`                                | November 2022  |
