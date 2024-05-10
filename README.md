@@ -3,7 +3,7 @@
 | Engagement / Report                                                                                                                         | Tags                                             | Date           |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------|
 | Socket.Tech                            | `DEX`, `Solidity`                                | March 2024       |
-| 1inch                            | `DEX`, `Solidity`                                | March 2024       |
+| [1inch (Fusion v2)](https://github.com/decurity/audits/blob/master/1inch/1inch-fusion-v2-audit-report-1.1.pdf)                            | `DEX`, `Solidity`                                | March 2024       |
 | NDA                            | `Web`, `API`, `Sandbox`                                | March 2024       |
 | 1inch                            | `DEX`, `Solidity`                                | March 2024       |
 | UnoRe (v2 update)                            | `Insurance`, `Solidity`                                | March 2024       |
