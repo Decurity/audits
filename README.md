@@ -3,7 +3,7 @@
 | Engagement / Report                                                                                                                         | Tags                                             | Date           |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------|
 | NDA                            | `Staking`, `Go`, `TypeScript`, `Web`                                | May 2024       |
-| NDA                                                     | `LRT`, `Risk Assessment`, `Monitoring`            | December 2022  |
+| NDA                                                     | `LRT`, `Risk Assessment`, `Monitoring`            | May 2024  |
 | Clearpool                            | `Lending`, `Solidity`                                | May 2024       |
 | NDA                            | `Lending`, `Solidity`                                | April 2024       |
 | NDA                            | `Staking`, `Solidity`                                | April 2024       |
