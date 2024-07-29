@@ -2,17 +2,30 @@
 
 | Engagement / Report                                                                                                                         | Tags                                             | Date           |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------|
+| NDA                            | `DEX`, `Bridge`, `Solidity`                   | July 2024       |
+| NDA                            | `RWA`, `Farming`, `Solidity`                 | July 2024  |
+| Symbiosis Finance (relayers)    | `Bridge`, `MPC`, `DKG`, `Golang`                 | July 2024  |
+| NDA   | `DEX`, `Solidity`                 | July 2024  |
+| MaisonQR   | `Token`, `Solidity`                 | July 2024  |
+| NDA   | `Lending`, `Solidity`                 | June 2024  |
+| Symbiosis Finance   | `Staking`, `Solidity`                 | June 2024  |
+| Chainspot                            | `DEX`, `Solidity`                                | June 2024       |
+| Socket.Tech                            | `DEX`, `Bridge`, `Solidity`                                | June 2024       |
+| NDA                               | `Vesting`, `Risk Assessment`, `Staking`, `TON`, `FunC`                                | May 2024       |
+| Arx                                    | `ENS`, `NFT`, `Solidity`                         | May 2024      |
+| Storm.Tg                               | `Vesting`, `TON`, `FunC`                                | May 2024       |
+| Socket.Tech                            | `DEX`, `Bridge`, `Solidity`                                | May 2024       |
 | NDA                            | `Staking`, `Go`, `TypeScript`, `Web`                                | May 2024       |
-| NDA                                                     | `LRT`, `Risk Assessment`, `Monitoring`            | May 2024  |
+| NDA                                        | `LRT`, `Risk Assessment`, `Monitoring`            | May 2024  |
 | Clearpool                            | `Lending`, `Solidity`                                | May 2024       |
-| NDA                            | `Lending`, `Solidity`                                | April 2024       |
+| Rho Markets                            | `Lending`, `Solidity`                                | April 2024       |
 | NDA                            | `Staking`, `Solidity`                                | April 2024       |
-| Socket.Tech                            | `DEX`, `Solidity`                                | April 2024       |
-| Ether.Fi                            | `LRT`, `Solidity`                                | April 2024       |
-| Socket.Tech                            | `DEX`, `Solidity`                                | March 2024       |
+| [Socket.Tech](https://github.com/decurity/audits/blob/master/SocketTech/socket-hop-l2-integration-audit-report-2024-1.1.pdf)                            | `DEX`, `Bridge`, `Solidity`                                | April 2024       |
+| [Ether.Fi](https://github.com/decurity/audits/blob/master/EtherFi/etherfi-liquifier-diff-audit-report-2024-1.1.pdf)                            | `LRT`, `Solidity`                                | April 2024       |
+| Socket.Tech                            | `DEX`, `Bridge`, `Solidity`                                | March 2024       |
 | [1inch (Fusion v2)](https://github.com/decurity/audits/blob/master/1inch/1inch-fusion-v2-audit-report-1.1.pdf)                            | `DEX`, `Solidity`                                | March 2024       |
 | NDA                            | `Web`, `API`, `Sandbox`                                | March 2024       |
-| 1inch                            | `DEX`, `Solidity`                                | March 2024       |
+| 1inch                            | `DEX`, `Bridge`, `Solidity`                                | March 2024       |
 | UnoRe (v2 update)                            | `Insurance`, `Solidity`                                | March 2024       |
 | Azuro                            | `Betting`, `Solidity`                                | March 2024       |
 | Clearpool                            | `Lending`, `Solidity`                                | February 2024       |
@@ -28,7 +41,7 @@
 | [Gearbox (Governor V3)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-governor-v3-audit-report-1.0.pdf)                            | `Governance`, `Timelock`, `Solidity`                                | November 2023       |
 | NDA                            | `On-ramp`, `Off-ramp`, `Web`, `API`                                | November 2023       |
 | Haqqex                            | `CEX`, `Web`, `API`, `Custody`                                | October 2023       |
-| Symbiosis Finance   | `DEX`, `Solidity`                 | September 2023  |
+| Symbiosis Finance   | `DEX`, `Solidity`                       | September 2023  |
 | [Vooi (Pool)](https://github.com/Decurity/audits/blob/master/Vooi/vooi-pool-security-audit-report-1.1.pdf)                            | `DEX`, `Solidity`                                | August 2023       |
 | Tokenlon (RFQ v2 update)                            | `DEX`, `Solidity`                                | August 2023       |
 | [Thales Market (SpeedMarkets)](https://github.com/decurity/audits/blob/master/ThalesMarket/thales-market-speedmarkets-audit-report-1.1.pdf) | `DEX`, `Solidity`                                       | August 2023       |
