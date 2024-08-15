@@ -17,7 +17,7 @@
 | Socket.Tech                            | `DEX`, `Bridge`, `Solidity`                                | May 2024       |
 | NDA                            | `Staking`, `Go`, `TypeScript`, `Web`                                | May 2024       |
 | NDA                                        | `LRT`, `Risk Assessment`, `Monitoring`            | May 2024  |
-| Clearpool                            | `Lending`, `Solidity`                                | May 2024       |
+| [Clearpool](https://github.com/decurity/audits/blob/master/Clearpool/clearpool-open-term-pools-audit-report-2024-1.1.pdf)                            | `Lending`, `Solidity`                                | May 2024       |
 | Rho Markets                            | `Lending`, `Solidity`                                | April 2024       |
 | NDA                            | `Staking`, `Solidity`                                | April 2024       |
 | [Socket.Tech](https://github.com/decurity/audits/blob/master/SocketTech/socket-hop-l2-integration-audit-report-2024-1.1.pdf)                            | `DEX`, `Bridge`, `Solidity`                                | April 2024       |
