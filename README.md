@@ -2,6 +2,13 @@
 
 | Engagement / Report                                                                                                                         | Tags                                             | Date           |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------|
+| NDA                            | `Token`, `RWA`, `Solidity`                   | August 2024       |
+| [Gearbox (Integrations)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-pendle-mellow-integrations-audit-report-1.1.pdf)                            | `Farming`, `Leverage`, `Solidity`                                | August 2024       |
+| Socket.Tech                            | `DEX`, `Bridge`, `Solidity`                                | August 2024       |
+| NDA                            | `DEX`, `Solidity`                   | August 2024       |
+| NDA                            | `Lending`, `Solidity`                   | August 2024       |
+| Zircuit                            | `Token`, `L2`, `Solidity`                   | August 2024       |
+| NDA                            | `DEX`, `Solidity`                   | August 2024       |
 | NDA                            | `DEX`, `Bridge`, `Solidity`                   | July 2024       |
 | NDA                            | `RWA`, `Farming`, `Solidity`                 | July 2024  |
 | Symbiosis Finance (relayers)    | `Bridge`, `MPC`, `DKG`, `Golang`                 | July 2024  |
