@@ -2,11 +2,16 @@
 
 | Engagement / Report                                                                                                                         | Tags                                             | Date           |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------|
+| NDA                            | `Staking`, `Solidity`                   | October 2024       |
+| Storm.Tg                | `Token`, `TON`, `FunC`                   | October 2024       |
+| NDA                            | `Stablecoin`, `RWA`, `Solidity`                   | September 2024       |
+| NDA                            | `DEX`, `Orderbook`, `Solidity`                   | September 2024       |
+| Collectif DAO (Unstaking update)                            | `LSD`, `Filecoin`, `Solidity`                   | September 2024       |
 | NDA                            | `Token`, `RWA`, `Solidity`                   | August 2024       |
 | [Gearbox (Integrations)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-pendle-mellow-integrations-audit-report-1.1.pdf)                            | `Farming`, `Leverage`, `Solidity`                                | August 2024       |
 | Socket.Tech                            | `DEX`, `Bridge`, `Solidity`                                | August 2024       |
 | NDA                            | `DEX`, `Solidity`                   | August 2024       |
-| NDA                            | `Lending`, `Solidity`                   | August 2024       |
+| [MortgageFi](https://github.com/Decurity/audits/blob/master/MortgageFi/mortgagefi-audit-report-1.1.pdf)                            | `Lending`, `Solidity`                   | August 2024       |
 | Zircuit                            | `Token`, `L2`, `Solidity`                   | August 2024       |
 | NDA                            | `DEX`, `Solidity`                   | August 2024       |
 | NDA                            | `DEX`, `Bridge`, `Solidity`                   | July 2024       |
@@ -58,7 +63,7 @@
 | [zkBob (CDP and Pool)](https://github.com/decurity/audits/blob/master/zkBob/zkbob-contracts-cdp-audit-report-1.1.pdf)                       | `ZK`, `CDP`, `Solidity`                          | May 2023       |
 | [Tokenlon (RFQ v2)](https://github.com/decurity/audits/blob/master/Tokenlon/tokenlon-rfqv2-audit-report-1.1.pdf)                            | `DEX`, `Solidity`                                | May 2023       |
 | [Thales Market (Liquidity Pool)](https://github.com/decurity/audits/blob/master/tokenlon/thales-market-liquidity-pool-audit-report-1.1.pdf) | `Solidity`                                       | May 2023       |
-| [Collectif DAO](https://github.com/Decurity/audits/blob/master/CollectifDAO/collectif-dao-audit-report-1.2.pdf)                             | `LSD`, `Solidity`                                | May 2023       |
+| [Collectif DAO](https://github.com/Decurity/audits/blob/master/CollectifDAO/collectif-dao-audit-report-1.2.pdf)                             | `LSD`, `Filecoin`, `Solidity`                                | May 2023       |
 | NDA                                                                                                                                         | `API`, `Wallet`, `Web`                           | May 2023       |
 | 1inch                                                                                                                                 | `Solidity`, `Yul`                                | May 2023       |
 | [1inch (Aggregation Router v6)](https://github.com/decurity/audits/blob/master/1inch/1inch-aggregation-router-v6-audit-report-2023-1.1.pdf)                                                                       | `DEX`, `Solidity`, `Yul`                         | April 2023     |
