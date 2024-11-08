@@ -35,7 +35,7 @@
 | [Socket.Tech](https://github.com/decurity/audits/blob/master/SocketTech/socket-hop-l2-integration-audit-report-2024-1.1.pdf)                            | `DEX`, `Bridge`, `Solidity`                                | April 2024       |
 | [Ether.Fi](https://github.com/decurity/audits/blob/master/EtherFi/etherfi-liquifier-diff-audit-report-2024-1.1.pdf)                            | `LRT`, `Solidity`                                | April 2024       |
 | Socket.Tech                            | `DEX`, `Bridge`, `Solidity`                                | March 2024       |
-| [1inch (Fusion v2)](https://github.com/decurity/audits/blob/master/1inch/1inch-fusion-v2-audit-report-1.1.pdf)                            | `DEX`, `Solidity`                                | March 2024       |
+| [1inch (Fusion v2)](https://github.com/decurity/audits/blob/master/1inch/1inch-fusion-v2-audit-report-2024-1.1.pdf)                            | `DEX`, `Solidity`                                | March 2024       |
 | NDA                            | `Web`, `API`, `Sandbox`                                | March 2024       |
 | 1inch                            | `DEX`, `Bridge`, `Solidity`                                | March 2024       |
 | UnoRe (v2 update)                            | `Insurance`, `Solidity`                                | March 2024       |
