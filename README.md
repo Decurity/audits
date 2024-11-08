@@ -14,6 +14,7 @@
 | [MortgageFi](https://github.com/Decurity/audits/blob/master/MortgageFi/mortgagefi-audit-report-1.1.pdf)                            | `Lending`, `Solidity`                   | August 2024       |
 | Zircuit                            | `Token`, `L2`, `Solidity`                   | August 2024       |
 | NDA                            | `DEX`, `Solidity`                   | August 2024       |
+| [1inch (Cross-Chain Swaps V2)](https://github.com/decurity/audits/blob/master/1inch/1inch-cross-chain-swaps-v2-audit-report-2024-1.1.pdf)                            | `DEX`, `Solidity`                                | July 2024       |
 | NDA                            | `DEX`, `Bridge`, `Solidity`                   | July 2024       |
 | NDA                            | `RWA`, `Farming`, `Solidity`                 | July 2024  |
 | Symbiosis Finance (relayers)    | `Bridge`, `MPC`, `DKG`, `Golang`                 | July 2024  |
