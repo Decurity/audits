@@ -10,7 +10,7 @@
 | Truflation                            | `RWA`, `Staking`, `Solidity`                 | October 2024  |
 | Storm.Tg                | `Token`, `TON`, `FunC`                   | October 2024       |
 | NDA                            | `Staking`, `Solidity`                   | October 2024       |
-| Frankencoin                            | `Stablecoin`, `RWA`, `Solidity`                   | September 2024       |
+| Frankencoin                    | `Stablecoin`, `RWA`, `Solidity`                   | September 2024       |
 | NDA                            | `DEX`, `Orderbook`, `Solidity`                   | September 2024       |
 | Collectif DAO (Unstaking update)                            | `LSD`, `Filecoin`, `Solidity`                   | September 2024       |
 | Deenar                            | `Stablecoin`, `RWA`, `Solidity`                   | August 2024       |
@@ -49,15 +49,16 @@
 | [Clearpool Credit Vaults](https://github.com/decurity/audits/blob/master/Clearpool/clearpool-open-term-pools-audit-report-2024-1.1.pdf)                            | `Lending`, `Solidity`                                | February 2024       |
 | NDA                            | `NFT`, `Solidity`                                | February 2024       |
 | [Fluence (DAO)](https://github.com/decurity/audits/blob/master/Fluence/fluence-dao-audit-report-1.1.pdf)                            | `DAO`, `Governance`, `Solidity`                                | February 2024       |
-| 1inch                            | `DEX`, `Solidity`                                | February 2024       |
+| [1inch (selfdestruct refactoring)](https://github.com/decurity/audits/blob/master/1inch/1inch-selfdestruct-refactoring-audit-report-2024-1.0.pdf)                            | `DEX`, `Solidity`                                | February 2024       |
 | NDA                            | `On-ramp`, `Off-ramp`, `Payments`, `Web`, `API`                                | February 2024       |
 | NDA                            | `CEX`, `Web`, `API`                                | January 2024       |
 | [UnoRe (v2)](https://github.com/Decurity/audits/blob/master/UnoRe/unore-audit-report-1.1.pdf)                            | `Insurance`, `Solidity`                                | December 2023       |
 | [UFarm](https://github.com/Decurity/audits/blob/master/UFarm/ufarm-audit-report-2023-1.1.pdf)                            | `Farming`, `Asset Management`, `Solidity`                                | December 2023       |
-| 1inch                            | `DEX`, `Solidity`                                | November 2023       |
+| [1inch (SettlmentExtension)](https://github.com/decurity/audits/blob/master/1inch/1inch-settlementextension-audit-report-2023-1.0.pdf)                            | `DEX`, `Solidity`                                | November 2023       |
 | [Bebop JAM](https://github.com/Decurity/audits/blob/master/Bebop/bebop-jam-audit-report-1.1.pdf)                            | `DEX`, `Solidity`                                | November 2023       |
 | [Gearbox (Governor V3)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-governor-v3-audit-report-1.0.pdf)                            | `Governance`, `Timelock`, `Solidity`                                | November 2023       |
 | NDA                            | `On-ramp`, `Off-ramp`, `Web`, `API`                                | November 2023       |
+| [1inch (Aggregation Router v6 and Limit Order Protocol v4)](https://github.com/decurity/audits/blob/master/1inch/1inch-aggregation-router-v6-limit-order-v4-audit-report-2023-1.1.pdf)                             | `DEX`, `Solidity`                                | May 2023       |
 | [Haqqex](https://www.haqqex.com/id/education/announcing-haqqexs-partnership-with-decurity)                            | `CEX`, `Web`, `API`, `Custody`                                | October 2023       |
 | Symbiosis Finance   | `DEX`, `Solidity`                       | September 2023  |
 | [Vooi (Pool)](https://github.com/Decurity/audits/blob/master/Vooi/vooi-pool-security-audit-report-1.1.pdf)                            | `DEX`, `Solidity`                                | August 2023       |
@@ -71,14 +72,14 @@
 | [Thales Market (Liquidity Pool)](https://github.com/decurity/audits/blob/master/tokenlon/thales-market-liquidity-pool-audit-report-1.1.pdf) | `Solidity`                                       | May 2023       |
 | [Collectif DAO](https://github.com/Decurity/audits/blob/master/CollectifDAO/collectif-dao-audit-report-1.2.pdf)                             | `LSD`, `Filecoin`, `Solidity`                                | May 2023       |
 | NDA               | `API`, `Wallet`, `Web`                           | May 2023       |
-| 1inch                                                                                                                                 | `Solidity`, `Yul`                                | May 2023       |
+| [1inch (Calldata Compressor)](https://github.com/decurity/audits/blob/master/1inch/1inch-calldata-compressor-audit-report-2023-1.0.pdf)                             | `Solidity`, `Yul`                                | May 2023       |
 | [1inch (Aggregation Router v6)](https://github.com/decurity/audits/blob/master/1inch/1inch-aggregation-router-v6-audit-report-2023-1.1.pdf)                                                                       | `DEX`, `Solidity`, `Yul`                         | April 2023     |
-| 1inch                                                                                                                                 | `DEX`, `Solidity`, `Yul`                         | April 2023     |
+| [1inch (Fusion V2)](https://github.com/decurity/audits/blob/master/1inch/1inch-fusion-v2-audit-report-2023-1.1.pdf)                   | `DEX`, `Solidity`, `Yul`                         | April 2023     |
 | Defexa (Wallet)                                                                                                                             | `iOS`, `Android`, `Wallet`                       | April 2023     |
-| NDA                                                                                                                                         | `L1`, `Avalanche`, `Golang`                      | April 2023     |
+| NDA                           | `Avalanche`, `Golang`, `L1`                      | April 2023     |
 | [Compound (Comet, v3)](https://github.com/compound-finance/comet/pull/742)                                                                  | `DevSecOps`, `Semgrep`, `Lending`                | March 2023     |
 | EAST (v2)                                                                                                                                   | `Docker`, `CDP`, `TypeScript`, `Scala`           | March 2023     |
-| NDA               | `Avalanche`, `Golang`, `L2`                            | February 2023  |
+| NDA               | `Avalanche`, `Golang`, `L1`                            | February 2023  |
 | [Tokenlon (Limit Order Protocol)](https://github.com/decurity/audits/blob/master/Tokenlon/tokenlon-limit-order-audit-report-1.1.pdf)        | `DEX`, `Solidity`                                | January 2023   |
 | [Symbiosis Finance (relayers)](https://github.com/decurity/audits/blob/master/Symbiosis/symbiosis-finance-relayers-audit-report-1.1.pdf)    | `Bridge`, `MPC`, `DKG`, `Golang`                 | December 2022  |
 | GMX (for a Hedge Fund)                              | `Perpetual`, `Risk Assessment`, `Arbitrum`, `Monitoring`            | December 2022  |
