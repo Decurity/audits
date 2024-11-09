@@ -38,7 +38,7 @@
 | Socket.Tech                            | `DEX`, `Bridge`, `Solidity`                                | March 2024       |
 | [1inch (Fusion v2)](https://github.com/decurity/audits/blob/master/1inch/1inch-fusion-v2-audit-report-2024-1.1.pdf)                            | `DEX`, `Solidity`                                | March 2024       |
 | NDA                            | `Web`, `API`, `Sandbox`                                | March 2024       |
-| 1inch                            | `DEX`, `Bridge`, `Solidity`                                | March 2024       |
+| [1inch (Cross Chain Swaps)](https://github.com/decurity/audits/blob/master/1inch/1inch-cross-chain-swaps-audit-report-2024-1.1.pdf)                            | `DEX`, `Bridge`, `Solidity`                                | March 2024       |
 | UnoRe (v2 update)                            | `Insurance`, `Solidity`                                | March 2024       |
 | Azuro                            | `Betting`, `Solidity`                                | March 2024       |
 | [Clearpool Credit Vaults](https://github.com/decurity/audits/blob/master/Clearpool/clearpool-open-term-pools-audit-report-2024-1.1.pdf)                            | `Lending`, `Solidity`                                | February 2024       |
