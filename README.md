@@ -43,7 +43,7 @@
 | Azuro                            | `Betting`, `Solidity`                                | March 2024       |
 | [Clearpool Credit Vaults](https://github.com/decurity/audits/blob/master/Clearpool/clearpool-open-term-pools-audit-report-2024-1.1.pdf)                            | `Lending`, `Solidity`                                | February 2024       |
 | NDA                            | `NFT`, `Solidity`                                | February 2024       |
-| Fluence (DAO)                            | `DAO`, `Governance`, `Solidity`                                | February 2024       |
+| [Fluence (DAO)](https://github.com/decurity/audits/blob/master/Fluence/fluence-dao-audit-report-1.1.pdf)                            | `DAO`, `Governance`, `Solidity`                                | February 2024       |
 | 1inch                            | `DEX`, `Solidity`                                | February 2024       |
 | NDA                            | `On-ramp`, `Off-ramp`, `Payments`, `Web`, `API`                                | February 2024       |
 | NDA                            | `CEX`, `Web`, `API`                                | January 2024       |
@@ -53,7 +53,7 @@
 | [Bebop JAM](https://github.com/Decurity/audits/blob/master/Bebop/bebop-jam-audit-report-1.1.pdf)                            | `DEX`, `Solidity`                                | November 2023       |
 | [Gearbox (Governor V3)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-governor-v3-audit-report-1.0.pdf)                            | `Governance`, `Timelock`, `Solidity`                                | November 2023       |
 | NDA                            | `On-ramp`, `Off-ramp`, `Web`, `API`                                | November 2023       |
-| Haqqex                            | `CEX`, `Web`, `API`, `Custody`                                | October 2023       |
+| [Haqqex](https://www.haqqex.com/id/education/announcing-haqqexs-partnership-with-decurity)                            | `CEX`, `Web`, `API`, `Custody`                                | October 2023       |
 | Symbiosis Finance   | `DEX`, `Solidity`                       | September 2023  |
 | [Vooi (Pool)](https://github.com/Decurity/audits/blob/master/Vooi/vooi-pool-security-audit-report-1.1.pdf)                            | `DEX`, `Solidity`                                | August 2023       |
 | Tokenlon (RFQ v2 update)                            | `DEX`, `Solidity`                                | August 2023       |
