@@ -3,6 +3,8 @@
 | Engagement / Report                                                                                                                         | Tags                                             | Date           |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------|
 | Asterizm (SVM)                   | `Bridge`, `Rust`, `Solana`                   | November 2024       |
+| NDA                   | `Stablecoin`, `Lending`, `Solidity`                   | November 2024       |
+| NDA                   | `Bridge`, `RWA`, `Solidity`                   | November 2024       |
 | Asterizm (EVM)                   | `Bridge`, `Solidity`                   | November 2024       |
 | Asterizm (TVM)                   | `Bridge`, `TON`, `Threaded Solidity`                   | November 2024       |
 | NDA                            | `Asset Management`, `Solidity`                   | October 2024       |
