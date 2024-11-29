@@ -12,7 +12,7 @@
 | Truflation                            | `RWA`, `Staking`, `Solidity`                 | October 2024  |
 | Storm.Tg                | `Token`, `TON`, `FunC`                   | October 2024       |
 | NDA                            | `Staking`, `Solidity`                   | October 2024       |
-| Frankencoin                    | `Stablecoin`, `RWA`, `Solidity`                   | September 2024       |
+| [Frankencoin](https://github.com/Decurity/audits/blob/master/Frankencoin/frankencoin-audit-report-1.1.pdf)                    | `Stablecoin`, `RWA`, `Solidity`                   | September 2024       |
 | NDA                            | `DEX`, `Orderbook`, `Solidity`                   | September 2024       |
 | Collectif DAO (Unstaking update)                            | `LSD`, `Filecoin`, `Solidity`                   | September 2024       |
 | Deenar                            | `Stablecoin`, `RWA`, `Solidity`                   | August 2024       |
