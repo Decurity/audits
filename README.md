@@ -2,9 +2,17 @@
 
 | Engagement / Report                                                                                                                         | Tags                                             | Date           |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------|
-| Asterizm (SVM)                   | `Bridge`, `Rust`, `Solana`                   | November 2024       |
-| NDA                   | `Stablecoin`, `Lending`, `Solidity`                   | November 2024       |
+| NDA                   | `Stablecoin`, `Lending`, `Solidity`                   | January 2025       |
+| Socket.Tech                            | `DEX`, `Bridge`, `Solidity`                                | January 2025       |
+| NDA                   | `Token`, `Staking`, `Solidity`                   | January 2025       |
+| NDA                            | `Flatcoin`, `Lending`, `RWA`, `Solidity`                                | December 2024       |
+| 1inch                            | `DEX`, `Bridge`, `Solidity`                                | December 2024       |
+| SuiLend (for a Hedge Fund)                                        | `LRT`, `Risk Assessment`, `Sui`, `Move`            | December 2024  |
+| Ozean                   | `L2`, `Optimism`, `Solidity`                   | December 2024       |
+| Asterizm (SVM)                   | `Bridge`, `Rust`, `Solana`                   | December 2024       |
+| Socket.Tech                            | `DEX`, `Bridge`, `Solidity`                                | November 2024       |
 | NDA                   | `Bridge`, `RWA`, `Solidity`                   | November 2024       |
+| Haqqex                   | `Token`, `Solidity`                   | November 2024       |
 | Asterizm (EVM)                   | `Bridge`, `Solidity`                   | November 2024       |
 | Asterizm (TVM)                   | `Bridge`, `TON`, `Threaded Solidity`                   | November 2024       |
 | NDA                            | `Asset Management`, `Solidity`                   | October 2024       |
@@ -22,7 +30,7 @@
 | [MortgageFi](https://github.com/Decurity/audits/blob/master/MortgageFi/mortgagefi-audit-report-1.1.pdf)                            | `Lending`, `Solidity`                   | August 2024       |
 | Zircuit                            | `Token`, `L2`, `Solidity`                   | August 2024       |
 | NDA                            | `DEX`, `Solidity`                   | August 2024       |
-| [1inch (Cross-Chain Swaps V2)](https://github.com/decurity/audits/blob/master/1inch/1inch-cross-chain-swaps-v2-audit-report-2024-1.1.pdf)                            | `DEX`, `Solidity`                                | July 2024       |
+| [1inch (Cross-Chain Swaps V2)](https://github.com/decurity/audits/blob/master/1inch/1inch-cross-chain-swaps-v2-audit-report-2024-1.1.pdf)                            | `DEX`, `Bridge`, `Solidity`                                | July 2024       |
 | NDA                            | `RWA`, `Farming`, `Solidity`                 | July 2024  |
 | Symbiosis Finance (relayers)    | `Bridge`, `MPC`, `DKG`, `Golang`                 | July 2024  |
 | NDA   | `DEX`, `Solidity`                 | July 2024  |
