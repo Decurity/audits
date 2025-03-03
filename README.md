@@ -2,6 +2,16 @@
 
 | Engagement / Report                                                                                                                         | Tags                                             | Date           |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------|
+| NDA                   | `Filecoin`, `Lending`, `Solidity`                   | March 2025       |
+| NDA                   | `Stablecoin`, `Lending`, `Solidity`                   | February 2025       |
+| 1inch                            | `DEX`, `Rust`, `Solana`                                | February 2025       |
+| Ozean (Update)                   | `L2`, `Optimism`, `Solidity`                   | February 2025       |
+| NDA                   | `CEX`, `Middleware`, `Web2.5`                   | February 2025       |
+| NDA                   | `Matchain`, `Token`, `Solidity`                   | February 2025       |
+| Gearbox (Integrations)                   | `Farming`, `Leverage`, `Solidity`                   | January 2025       |
+| NDA                   | `Restaking`, `Interop`, `Solidity`                   | January 2025       |
+| OGFun                   | `Solana`, `Rust`, `Launchpad`                   | January 2025       |
+| 1inch                            | `DEX`, `Solidity`                                | January 2025       |
 | NDA                   | `Stablecoin`, `Lending`, `Solidity`                   | January 2025       |
 | Socket.Tech                            | `DEX`, `Bridge`, `Solidity`                                | January 2025       |
 | NDA                   | `Token`, `Staking`, `Solidity`                   | January 2025       |
