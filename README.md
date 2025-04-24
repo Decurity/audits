@@ -22,7 +22,7 @@
 | A7A5                   | `RWA`, `Solidity`                   | January 2025       |
 | [Socket.Tech (Mayan Integration)](https://github.com/decurity/audits/blob/master/SocketTech/mayan-integration-audit-report-2025-1.1.pdf)    | `DEX`, `Bridge`, `Solidity`                                | January 2025       |
 | NDA                   | `Token`, `Staking`, `Solidity`                   | January 2025       |
-| Nuon      | `Flatcoin`, `Lending`, `RWA`, `Solidity`                                | December 2024       |
+| [Nuon](https://github.com/decurity/audits/blob/master/Nuon/nuon-audit-report-2024-1.1.pdf)      | `Flatcoin`, `Lending`, `RWA`, `Solidity`                                | December 2024       |
 | 1inch                            | `DEX`, `Bridge`, `Solidity`                                | December 2024       |
 | SuiLend (for a Hedge Fund)                                        | `LRT`, `Risk Assessment`, `Sui`, `Move`            | December 2024  |
 | Ozean                   | `L2`, `Optimism`, `Solidity`                   | December 2024       |
