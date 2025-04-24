@@ -8,7 +8,7 @@
 | Ozean (Update)                   | `L2`, `Optimism`, `Solidity`                   | February 2025       |
 | NDA                   | `CEX`, `Middleware`, `Web2.5`                   | February 2025       |
 | NDA                   | `Matchain`, `Token`, `Solidity`                   | February 2025       |
-| Gearbox (Integrations)                   | `Farming`, `Leverage`, `Solidity`                   | January 2025       |
+| [Gearbox (Balancer V3 Integrations)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-balancer-v3-integrations-audit-report-1.1.pdf)                   | `Farming`, `Leverage`, `Solidity`                   | January 2025       |
 | NDA                   | `Restaking`, `Interop`, `Solidity`                   | January 2025       |
 | OGFun                   | `Solana`, `Rust`, `Launchpad`                   | January 2025       |
 | 1inch                            | `DEX`, `Solidity`                                | January 2025       |
@@ -26,7 +26,7 @@
 | Asterizm (EVM)                   | `Bridge`, `Solidity`                   | November 2024       |
 | Asterizm (TVM)                   | `Bridge`, `TON`, `Threaded Solidity`                   | November 2024       |
 | NDA                            | `Asset Management`, `Solidity`                   | October 2024       |
-| Gearbox (Integrations)                            | `Farming`, `Leverage`, `Solidity`                                | October 2024       |
+| [Gearbox (Sky Integrations & Pyth Price Feed)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-sky-pyth-integrations-audit-report-1.1.pdf)                            | `Farming`, `Leverage`, `Solidity`                                | October 2024       |
 | Truflation                            | `RWA`, `Staking`, `Solidity`                 | October 2024  |
 | Storm.Tg                | `Token`, `TON`, `FunC`                   | October 2024       |
 | NDA                            | `Staking`, `Solidity`                   | October 2024       |
