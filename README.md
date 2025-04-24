@@ -2,25 +2,32 @@
 
 | Engagement / Report                                                                                                                         | Tags                                             | Date           |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------|
-| NDA                   | `Filecoin`, `Lending`, `Solidity`                   | March 2025       |
-| NDA                   | `Stablecoin`, `Lending`, `Solidity`                   | February 2025       |
+| A7A5 (Wrapped Token)   | `RWA`, `Solidity`                | April 2025       |
+| Socket.Tech (Bungee CCTP Integration)     | `DEX`, `Cross-chain`, `Bridge`, `Solidity`   | April 2025       |
+| 1inch (Fees Update)                   | `DEX`, `Solidity`                   | April 2025       |
+| NDA                   | `DEX`, `Solidity`                   | April 2025       |
+| MortgageFi (Update)                   | `Lending`, `Solidity`                   | March 2025       |
+| Ankr (Matchain Token Update)                   | `Matchain`, `Token`, `Solidity`                   | March 2025       |
+| Mellow (Interop Update)                   | `Restaking`, `Interop`, `LRT`, `Solidity`                   | March 2025       |
+| Secured Finance                   | `Filecoin`, `Lending`, `Solidity`                   | March 2025       |
+| StableUnit                   | `Stablecoin`, `Lending`, `Solidity`                   | February 2025       |
 | 1inch                            | `DEX`, `Rust`, `Solana`                                | February 2025       |
 | Ozean (Update)                   | `L2`, `Optimism`, `Solidity`                   | February 2025       |
 | NDA                   | `CEX`, `Middleware`, `Web2.5`                   | February 2025       |
-| NDA                   | `Matchain`, `Token`, `Solidity`                   | February 2025       |
+| Ankr (Matchain Token)                   | `Matchain`, `Token`, `Solidity`                   | February 2025       |
 | [Gearbox (Balancer V3 Integrations)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-balancer-v3-integrations-audit-report-1.1.pdf)                   | `Farming`, `Leverage`, `Solidity`                   | January 2025       |
-| NDA                   | `Restaking`, `Interop`, `Solidity`                   | January 2025       |
+| Mellow (Interop)                   | `Restaking`, `Interop`, `LRT`, `Solidity`                   | January 2025       |
 | OGFun                   | `Solana`, `Rust`, `Launchpad`                   | January 2025       |
 | 1inch                            | `DEX`, `Solidity`                                | January 2025       |
-| NDA                   | `Stablecoin`, `Lending`, `Solidity`                   | January 2025       |
-| Socket.Tech                            | `DEX`, `Bridge`, `Solidity`                                | January 2025       |
+| A7A5                   | `RWA`, `Solidity`                   | January 2025       |
+| [Socket.Tech (Mayan Integration)](https://github.com/decurity/audits/blob/master/SocketTech/mayan-integration-audit-report-2025-1.1.pdf)    | `DEX`, `Bridge`, `Solidity`                                | January 2025       |
 | NDA                   | `Token`, `Staking`, `Solidity`                   | January 2025       |
-| NDA                            | `Flatcoin`, `Lending`, `RWA`, `Solidity`                                | December 2024       |
+| Nuon      | `Flatcoin`, `Lending`, `RWA`, `Solidity`                                | December 2024       |
 | 1inch                            | `DEX`, `Bridge`, `Solidity`                                | December 2024       |
 | SuiLend (for a Hedge Fund)                                        | `LRT`, `Risk Assessment`, `Sui`, `Move`            | December 2024  |
 | Ozean                   | `L2`, `Optimism`, `Solidity`                   | December 2024       |
 | Asterizm (SVM)                   | `Bridge`, `Rust`, `Solana`                   | December 2024       |
-| Socket.Tech                            | `DEX`, `Bridge`, `Solidity`                                | November 2024       |
+| [Socket.Tech (Mantle Integration)](https://github.com/decurity/audits/blob/master/SocketTech/socket-mantle-integration-audit-report-2024-1.1.pdf)   | `DEX`, `Bridge`, `Solidity`                                | November 2024       |
 | NDA                   | `Bridge`, `RWA`, `Solidity`                   | November 2024       |
 | Haqqex                   | `Token`, `Solidity`                   | November 2024       |
 | Asterizm (EVM)                   | `Bridge`, `Solidity`                   | November 2024       |
@@ -35,7 +42,7 @@
 | Collectif DAO (Unstaking update)                            | `LSD`, `Filecoin`, `Solidity`                   | September 2024       |
 | Deenar                            | `Stablecoin`, `RWA`, `Solidity`                   | August 2024       |
 | [Gearbox (Integrations)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-pendle-mellow-integrations-audit-report-1.1.pdf)                            | `Farming`, `Leverage`, `Solidity`                                | August 2024       |
-| Socket.Tech                            | `DEX`, `Bridge`, `Solidity`                                | August 2024       |
+| [Socket.Tech (Stargate V2 Integration)](https://github.com/decurity/audits/blob/master/SocketTech/socket-stargate-v2-integration-audit-2024-1.1.pdf)             | `DEX`, `Bridge`, `Solidity`                                | August 2024       |
 | NDA                            | `DEX`, `Solidity`                   | August 2024       |
 | [MortgageFi](https://github.com/Decurity/audits/blob/master/MortgageFi/mortgagefi-audit-report-1.1.pdf)                            | `Lending`, `Solidity`                   | August 2024       |
 | Zircuit                            | `Token`, `L2`, `Solidity`                   | August 2024       |
@@ -48,19 +55,19 @@
 | LibFi   | `Lending`, `Solidity`                 | June 2024  |
 | Symbiosis Finance   | `Staking`, `Solidity`                 | June 2024  |
 | Chainspot                            | `DEX`, `Solidity`                                | June 2024       |
-| Socket.Tech                            | `DEX`, `Bridge`, `Solidity`                                | June 2024       |
+| [Socket.Tech (SuperBridge Integration)](https://github.com/decurity/audits/blob/master/SocketTech/socket-superbridge-integration-audit-2024-1.1.pdf)     | `DEX`, `Bridge`, `Solidity`       | June 2024       |
 | TON Vesting (for a Hedge Fund)                               | `Vesting`, `Risk Assessment`, `Staking`, `TON`, `FunC`                                | May 2024       |
 | Arx                                    | `ENS`, `NFT`, `Solidity`                         | May 2024      |
 | Storm.Tg                               | `Vesting`, `TON`, `FunC`                                | May 2024       |
-| Socket.Tech                            | `DEX`, `Bridge`, `Solidity`                                | May 2024       |
+| [Socket.Tech (Across Bridge Integration)](https://github.com/decurity/audits/blob/master/SocketTech/socket-across-bridge-integration-audit-2024-1.1.pdf)                            | `DEX`, `Bridge`, `Solidity`                                | March 2024       |
 | P2P.org                            | `Staking`, `Go`, `TypeScript`, `Web`                                | May 2024       |
 | Ether.Fi (for a Hedge Fund)                                        | `LRT`, `Risk Assessment`, `Monitoring`            | May 2024  |
 | [Clearpool USDX](https://github.com/decurity/audits/blob/master/Clearpool/clearpool-usdx-audit-report-2024-1.1.pdf)                            | `Lending`, `Solidity`                                | May 2024       |
 | Rho Markets                            | `Lending`, `Solidity`                                | April 2024       |
 | NDA                            | `Staking`, `Solidity`                                | April 2024       |
-| [Socket.Tech](https://github.com/decurity/audits/blob/master/SocketTech/socket-hop-l2-integration-audit-report-2024-1.1.pdf)                            | `DEX`, `Bridge`, `Solidity`                                | April 2024       |
+| [Socket.Tech (Hop L2 Integration)](https://github.com/decurity/audits/blob/master/SocketTech/socket-hop-l2-integration-audit-report-2024-1.1.pdf)                            | `DEX`, `Bridge`, `Solidity`                                | April 2024       |
 | [Ether.Fi](https://github.com/decurity/audits/blob/master/EtherFi/etherfi-liquifier-diff-audit-report-2024-1.1.pdf)                            | `LRT`, `Solidity`                                | April 2024       |
-| Socket.Tech                            | `DEX`, `Bridge`, `Solidity`                                | March 2024       |
+| [Socket.Tech (Scroll Integration)](https://github.com/decurity/audits/blob/master/SocketTech/socket-scroll-integration-audit-2024-1.1.pdf)                            | `DEX`, `Bridge`, `Solidity`                                | March 2024       |
 | [1inch (Fusion v2)](https://github.com/decurity/audits/blob/master/1inch/1inch-fusion-v2-audit-report-2024-1.1.pdf)                            | `DEX`, `Solidity`                                | March 2024       |
 | NDA                            | `Web`, `API`, `Sandbox`                                | March 2024       |
 | [1inch (Cross Chain Swaps)](https://github.com/decurity/audits/blob/master/1inch/1inch-cross-chain-swaps-audit-report-2024-1.1.pdf)                            | `DEX`, `Bridge`, `Solidity`                                | March 2024       |
