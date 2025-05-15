@@ -23,7 +23,7 @@
 | [Socket.Tech (Mayan Integration)](https://github.com/decurity/audits/blob/master/SocketTech/mayan-integration-audit-report-2025-1.1.pdf)    | `DEX`, `Bridge`, `Solidity`                                | January 2025       |
 | NDA                   | `Token`, `Staking`, `Solidity`                   | January 2025       |
 | [Nuon](https://github.com/decurity/audits/blob/master/Nuon/nuon-audit-report-2024-1.1.pdf)      | `Flatcoin`, `Lending`, `RWA`, `Solidity`                                | December 2024       |
-| 1inch                            | `DEX`, `Bridge`, `Solidity`                                | December 2024       |
+| 1inch (Cross-Chain Resolver)           | `DEX`, `Bridge`, `Solidity`                                | December 2024       |
 | SuiLend (for a Hedge Fund)                                        | `LRT`, `Risk Assessment`, `Sui`, `Move`            | December 2024  |
 | Ozean                   | `L2`, `Optimism`, `Solidity`                   | December 2024       |
 | Asterizm (SVM)                   | `Bridge`, `Rust`, `Solana`                   | December 2024       |
@@ -81,7 +81,7 @@
 | NDA                            | `CEX`, `Web`, `API`                                | January 2024       |
 | [UnoRe (v2)](https://github.com/Decurity/audits/blob/master/UnoRe/unore-audit-report-1.1.pdf)                            | `Insurance`, `Solidity`                                | December 2023       |
 | [UFarm](https://github.com/Decurity/audits/blob/master/UFarm/ufarm-audit-report-2023-1.1.pdf)                            | `Farming`, `Asset Management`, `Solidity`                                | December 2023       |
-| [1inch (SettlmentExtension)](https://github.com/decurity/audits/blob/master/1inch/1inch-settlementextension-audit-report-2023-1.0.pdf)                            | `DEX`, `Solidity`                                | November 2023       |
+| [1inch (SettlementExtension)](https://github.com/decurity/audits/blob/master/1inch/1inch-settlementextension-audit-report-2023-1.0.pdf)                            | `DEX`, `Solidity`                                | November 2023       |
 | [Bebop JAM](https://github.com/Decurity/audits/blob/master/Bebop/bebop-jam-audit-report-1.1.pdf)                            | `DEX`, `Solidity`                                | November 2023       |
 | [Gearbox (Governor V3)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-governor-v3-audit-report-1.0.pdf)                            | `Governance`, `Timelock`, `Solidity`                                | November 2023       |
 | NDA                            | `On-ramp`, `Off-ramp`, `Web`, `API`                                | November 2023       |
@@ -114,7 +114,7 @@
 | [1inch (Multi Farming)](https://github.com/decurity/audits/blob/master/1inch/1inch-farming-audit-report-1.0.pdf)                            | `Staking`, `Solidity`                            | November 2022  |
 | [1inch (Fusion alpha)](https://github.com/decurity/audits/blob/master/1inch/1inch-fusion-mode-audit-report-1.1.pdf)                         | `DEX`, `Solidity`                                | November 2022  |
 | NDA          | `Staking`, `Solidity`                            | November 2022  |
-| Dyson Finance                                                                                                                               | `DEX`, `Farming`, `Solidity`                     | September 2022 |
+| [Dyson Finance](https://github.com/decurity/audits/blob/master/DysonFinance/dyson-finance-audit-report-1.0.pdf)                                                                                                                               | `DEX`, `Farming`, `Solidity`                     | September 2022 |
 | [Paradigm CTF](https://blog.decurity.io/stealing-gas-tokens-from-the-gsn-enabled-multisig-a15ddd313aa)                                      | `CTF`, `ZK`, `Rust`, `Solidity`, `Cairo`         | August 2022    |
 | [Yearn (No Hedge Joint Strategy)](https://github.com/decurity/audits/blob/master/Yearn/yearn-univ3stablesjoint-audit-report-1.0.pdf)        | `Farming`, `Solidity`, `Vyper`                   | July 2022      |
 | [GIVEth](https://blog.decurity.io/all-your-staking-rewards-are-belong-to-us-f53d5bd60989)                                                   | `Staking`, `Solidity`                            | June 2022      |
