@@ -6,7 +6,7 @@
 | Socket.Tech (Bungee CCTP Integration)     | `DEX`, `Cross-chain`, `Bridge`, `Solidity`   | April 2025       |
 | 1inch (Fees Update)                   | `DEX`, `Solidity`                   | April 2025       |
 | NDA                   | `DEX`, `Solidity`                   | April 2025       |
-| MortgageFi (Update)                   | `Lending`, `Solidity`                   | March 2025       |
+| [MortgageFi (Update)](https://github.com/Decurity/audits/blob/master/MortgageFi/mortgagefi-update-audit-report-2025-1.1.pdf)                   | `Lending`, `Solidity`                   | March 2025       |
 | Ankr (Matchain Token Update)                   | `Matchain`, `Token`, `Solidity`                   | March 2025       |
 | Mellow (Interop Update)                   | `Restaking`, `Interop`, `LRT`, `Solidity`                   | March 2025       |
 | Secured Finance                   | `Filecoin`, `Lending`, `Solidity`                   | March 2025       |
