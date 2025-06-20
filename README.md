@@ -2,6 +2,7 @@
 
 | Engagement / Report                                                                                                                         | Tags                                             | Date           |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------|
+| [Gearbox (Misc Integrations)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-misc-integrations-audit-report-1.1.pdf)                   | `Farming`, `Leverage`, `Solidity`                   | June 2025       |
 | A7A5 (Wrapped Token)   | `RWA`, `Solidity`                | April 2025       |
 | Socket.Tech (Bungee CCTP Integration)     | `DEX`, `Cross-chain`, `Bridge`, `Solidity`   | April 2025       |
 | 1inch (Fees Update)                   | `DEX`, `Solidity`                   | April 2025       |
