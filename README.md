@@ -2,8 +2,16 @@
 
 | Engagement / Report                                                                                                                         | Tags                                             | Date           |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------|
+| NDA     | `Stablecoin`, `Hyperliquid`, `Solidity`  | July 2025       |
+| NDA     | `TON`, `FunC`  | June 2025       |
+| 1inch (Cross-Chain Swaps)     | `DEX`, `Cross-chain`, `Bridge`, `Solana`, `Rust`  | June 2025       |
+| LibFi (Update)     | `Lending`, `Solidity`  | June 2025       |
+| NDA     | `CEX`, `Arbitrum`, `Web2.5`   | June 2025       |
 | [Gearbox (Misc Integrations)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-misc-integrations-audit-report-1.1.pdf)                   | `Farming`, `Leverage`, `Solidity`                   | June 2025       |
-| A7A5 (Wrapped Token)   | `RWA`, `Solidity`                | April 2025       |
+| NDA     | `Market Maker`, `Solidity`   | May 2025       |
+| Apillon     | `Oasis`, `Solidity`   | May 2025       |
+| [Cryptolegacy](https://github.com/Decurity/audits/blob/master/Cryptolegacy/cryptolegacy-audit-report-2025-1.1.pdf)                   | `Vault`, `Solidity`                   | May 2025       |
+| StableToken (Wrapped Token)   | `RWA`, `Solidity`                | April 2025       |
 | Socket.Tech (Bungee CCTP Integration)     | `DEX`, `Cross-chain`, `Bridge`, `Solidity`   | April 2025       |
 | 1inch (Fees Update)                   | `DEX`, `Solidity`                   | April 2025       |
 | NDA                   | `DEX`, `Solidity`                   | April 2025       |
@@ -20,11 +28,11 @@
 | Mellow (Interop)                   | `Restaking`, `Interop`, `LRT`, `Solidity`                   | January 2025       |
 | OGFun                   | `Solana`, `Rust`, `Launchpad`                   | January 2025       |
 | 1inch                            | `DEX`, `Solidity`                                | January 2025       |
-| A7A5                   | `RWA`, `Solidity`                   | January 2025       |
+| StableToken                   | `RWA`, `Solidity`                   | January 2025       |
 | [Socket.Tech (Mayan Integration)](https://github.com/decurity/audits/blob/master/SocketTech/mayan-integration-audit-report-2025-1.1.pdf)    | `DEX`, `Bridge`, `Solidity`                                | January 2025       |
 | NDA                   | `Token`, `Staking`, `Solidity`                   | January 2025       |
 | [Nuon](https://github.com/decurity/audits/blob/master/Nuon/nuon-audit-report-2024-1.1.pdf)      | `Flatcoin`, `Lending`, `RWA`, `Solidity`                                | December 2024       |
-| 1inch (Cross-Chain Resolver)           | `DEX`, `Bridge`, `Solidity`                                | December 2024       |
+| 1inch (Cross-Chain Resolver)           | `DEX`, `Cross-chain`, `Bridge`, `Solidity`                                | December 2024       |
 | SuiLend (for a Hedge Fund)                                        | `LRT`, `Risk Assessment`, `Sui`, `Move`            | December 2024  |
 | Ozean                   | `L2`, `Optimism`, `Solidity`                   | December 2024       |
 | Asterizm (SVM)                   | `Bridge`, `Rust`, `Solana`                   | December 2024       |
@@ -48,7 +56,7 @@
 | [MortgageFi](https://github.com/Decurity/audits/blob/master/MortgageFi/mortgagefi-audit-report-1.1.pdf)                            | `Lending`, `Solidity`                   | August 2024       |
 | Zircuit                            | `Token`, `L2`, `Solidity`                   | August 2024       |
 | NDA                            | `DEX`, `Solidity`                   | August 2024       |
-| [1inch (Cross-Chain Swaps V2)](https://github.com/decurity/audits/blob/master/1inch/1inch-cross-chain-swaps-v2-audit-report-2024-1.1.pdf)                            | `DEX`, `Bridge`, `Solidity`                                | July 2024       |
+| [1inch (Cross-Chain Swaps V2)](https://github.com/decurity/audits/blob/master/1inch/1inch-cross-chain-swaps-v2-audit-report-2024-1.1.pdf)                            | `DEX`, `Cross-chain`, `Bridge`, `Solidity`                                | July 2024       |
 | NDA                            | `RWA`, `Farming`, `Solidity`                 | July 2024  |
 | Symbiosis Finance (relayers)    | `Bridge`, `MPC`, `DKG`, `Golang`                 | July 2024  |
 | NDA   | `DEX`, `Solidity`                 | July 2024  |
