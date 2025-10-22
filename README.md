@@ -2,6 +2,21 @@
 
 | Engagement / Report                                                                                                                         | Tags                                             | Date           |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------|
+| [Gearbox (Balancer V3 Integrations 2)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-balancer-v3-integrations-audit-report-2.0.pdf)                   | `Farming`, `Leverage`, `Solidity`                   | October 2025       |
+| NDA                   | `Stablecoin`, `HTLC`, `Cross-Chain`, `Solana`, `Rust`                   | October 2025       |
+| Jelly Labs                   | `Balancer`, `Contract Verification`, `Solidity`                   | October 2025       |
+| NDA                   | `Stablecoin`, `HTLC`, `Cross-Chain`, `Solidity`                   | October 2025       |
+| Gearbox (Mellow Integration)                   | `Farming`, `Leverage`, `Solidity`                   | October 2025       |
+| Gearbox (Midas Integration)                   | `Farming`, `Leverage`, `Solidity`                   | October 2025       |
+| MortgageFi (Update)                   | `Lending`, `Solidity`                   | October 2025       |
+| 1inch (Fusion Update)     | `DEX`, `Cross-chain`, `Solidity`  | September 2025       |
+| NDA                   | `Solidity`                   | September 2025       |
+| Vooi (Update)                            | `DEX`, `Solidity`                                | September 2025       |
+| NDA                   | `Risk Assessment`, `Solana`, `Rust`                   | September 2025       |
+| Gearbox (Infiniti&Uniswap Integrations)                   | `Farming`, `Leverage`, `Solidity`                   | September 2025       |
+| 1inch (Cross-Chain Swaps EVM Update)     | `DEX`, `Cross-chain`, `Bridge`, `Solidity`  | August 2025       |
+| Symbiosis Finance   | `Staking`, `Solidity`                 | July 2025  |
+| 1inch (Cross-Chain Swaps Solana Update)     | `DEX`, `Cross-chain`, `Bridge`, `Solana`, `Rust`  | July 2025       |
 | NDA     | `Stablecoin`, `Hyperliquid`, `Solidity`  | July 2025       |
 | NDA     | `TON`, `FunC`  | June 2025       |
 | 1inch (Cross-Chain Swaps)     | `DEX`, `Cross-chain`, `Bridge`, `Solana`, `Rust`  | June 2025       |
