@@ -5,6 +5,7 @@
 | [Gearbox (Balancer V3 Integrations 2)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-balancer-v3-integrations-audit-report-2.0.pdf)                   | `Farming`, `Leverage`, `Solidity`                   | October 2025       |
 | NDA                   | `Stablecoin`, `HTLC`, `Cross-Chain`, `Solana`, `Rust`                   | October 2025       |
 | Jelly Labs                   | `Balancer`, `Contract Verification`, `Solidity`                   | October 2025       |
+| [Gearbox (Curve & Pendle Oracles)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-curve-pendle-oracle-update-audit-report-1.1.pdf)                   | `Farming`, `Leverage`, `Solidity`                   | October 2025       |
 | NDA                   | `Stablecoin`, `HTLC`, `Cross-Chain`, `Solidity`                   | October 2025       |
 | Gearbox (Mellow Integration)                   | `Farming`, `Leverage`, `Solidity`                   | October 2025       |
 | Gearbox (Midas Integration)                   | `Farming`, `Leverage`, `Solidity`                   | October 2025       |
