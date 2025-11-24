@@ -14,7 +14,7 @@
 | NDA                   | `Solidity`                   | September 2025       |
 | Vooi (Update)                            | `DEX`, `Solidity`                                | September 2025       |
 | NDA                   | `Risk Assessment`, `Solana`, `Rust`                   | September 2025       |
-| Gearbox (Infiniti&Uniswap Integrations)                   | `Farming`, `Leverage`, `Solidity`                   | September 2025       |
+| [Gearbox (Infiniti&Uniswap Integrations)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-infinifi-uniswap-v4-audit-report-1.1.pdf)                   | `Farming`, `Leverage`, `Solidity`                   | September 2025       |
 | 1inch (Cross-Chain Swaps EVM Update)     | `DEX`, `Cross-chain`, `Bridge`, `Solidity`  | August 2025       |
 | Symbiosis Finance   | `Staking`, `Solidity`                 | July 2025  |
 | 1inch (Cross-Chain Swaps Solana Update)     | `DEX`, `Cross-chain`, `Bridge`, `Solana`, `Rust`  | July 2025       |
