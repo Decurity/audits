@@ -2,6 +2,22 @@
 
 | Engagement / Report                                                                                                                         | Tags                                             | Date           |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------|
+| Gearbox (KelpLRT Integrations)                   | `Farming`, `Leverage`, `Solidity`                   | December 2025       |
+| NDA                   | `CEX`, `Web2.5`                   | December 2025       |
+| NDA                   | `Forex`, `Web2.5`                   | December 2025       |
+| NDA                   | `Account Abstraction`, `Solidity`                   | December 2025       |
+| Vooi (Staking)                   | `Staking`, `Solidity`                   | November 2025       |
+| Vooi (Token)                   | `Token`, `Solidity`                   | November 2025       |
+| Vooi (Frontend)                   | `Web2.5`, `Typescript`                   | November 2025       |
+| NDA                   | `CEX`, `Web2.5`                   | November 2025       |
+| NDA                   | `Stablecoin`, `HTLC`, `Cross-chain`, `Web2.5`                   | November 2025       |
+| 1inch (Aqua & SwapVM)                   | `DEX`, `Solidity`                   | November 2025       |
+| NDA                   | `Wallet`, `Solidity`                   | November 2025       |
+| Symbiosis Finance (Depository)                   | `Bridge`, `BTC`, `Solidity`                   | October 2025       |
+| Gearbox (Oracles Update)                   | `Farming`, `Leverage`, `Solidity`                   | October 2025       |
+| NDA                   | `Stablecoin`, `HTLC`, `Cross-chain`, `FunC`, `TON`                   | October 2025       |
+| NDA                   | `Stablecoin`, `HTLC`, `Cross-chain`, `Solidity`                   | October 2025       |
+| NDA                   | `Stablecoin`, `HTLC`, `Cross-chain`, `Rust`, `Solana`                   | October 2025       |
 | [Gearbox (Balancer V3 Integrations 2)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-balancer-v3-integrations-audit-report-2.0.pdf)                   | `Farming`, `Leverage`, `Solidity`                   | October 2025       |
 | NDA                   | `Stablecoin`, `HTLC`, `Cross-Chain`, `Solana`, `Rust`                   | October 2025       |
 | Jelly Labs                   | `Balancer`, `Contract Verification`, `Solidity`                   | October 2025       |
