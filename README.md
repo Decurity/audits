@@ -2,7 +2,7 @@
 
 | Engagement / Report                                                                                                                         | Tags                                             | Date           |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------|
-| Gearbox (KelpLRT Integrations)                   | `Farming`, `Leverage`, `Solidity`                   | December 2025       |
+| [Gearbox (KelpLRT Integrations)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-kelp-lrt-integration-audit-report-1.1.pdf)                   | `Farming`, `Leverage`, `Solidity`                   | December 2025       |
 | NDA                   | `CEX`, `Web2.5`                   | December 2025       |
 | NDA                   | `Forex`, `Web2.5`                   | December 2025       |
 | NDA                   | `Account Abstraction`, `Solidity`                   | December 2025       |
