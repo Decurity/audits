@@ -7,7 +7,7 @@
 | NDA                   | `DEX`, `Cross-chain`, `Rust`, `Stellar`                   | April 2026       |
 | Flap                  | `Token`, `Solidity`                   | April 2026       |
 | NDA                                        |  `Risk Assessment`, `Rust`, `Solana`            | March 2026  |
-| 1inch (Aqua & SwapVM Update)                   | `DEX`, `Solidity`                   | February 2026       |
+| 1inch (Aqua & SwapVM Update)(https://github.com/Decurity/audits/blob/master/1inch/1inch-aqua-swapvm-audit-update-report-2026-1.1.pdf)                   | `DEX`, `Solidity`                   | February 2026       |
 | NDA                   | `Stablecoin`, `HTLC`, `Cross-chain`, `Web2.5`                   | January 2026       |
 | [Gearbox (KelpLRT Integrations)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-kelp-lrt-integration-audit-report-1.1.pdf)                   | `Farming`, `Leverage`, `Solidity`                   | December 2025       |
 | NDA                   | `CEX`, `Web2.5`                   | December 2025       |
@@ -18,7 +18,7 @@
 | Vooi (Frontend)                   | `Web2.5`, `Typescript`                   | November 2025       |
 | NDA                   | `CEX`, `Web2.5`                   | November 2025       |
 | NDA                   | `Stablecoin`, `HTLC`, `Cross-chain`, `Web2.5`                   | November 2025       |
-| 1inch (Aqua & SwapVM)                   | `DEX`, `Solidity`                   | November 2025       |
+| [1inch (Aqua & SwapVM)](https://github.com/Decurity/audits/blob/master/1inch/1inch-aqua-swapvm-audit-report-2025-1.0.pdf)                   | `DEX`, `Solidity`                   | November 2025       |
 | NDA                   | `Wallet`, `Solidity`                   | November 2025       |
 | Symbiosis Finance (Depository)                   | `Bridge`, `BTC`, `Solidity`                   | October 2025       |
 | Gearbox (Oracles Update)                   | `Farming`, `Leverage`, `Solidity`                   | October 2025       |
