@@ -2,10 +2,18 @@
 
 | Engagement / Report                                                                                                                         | Tags                                             | Date           |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------|
+| NDA                  | `Stablecoin`, `Solidity`                   | June 2026       |
+| Symbiosis Finance (Depository Update)                  | `Bridge`, `Solidity`                   | June 2026       |
+| NDA (payment provider)                  | `Web2.5`, `Solana`, `TON`                   | June 2026       |
+| NDA (CEX)                  | `Web2.5`                  | June 2026       |
+| NDA (payment provider)                  | `Web2.5`, `EVM`                   | May 2026       |
+| Flap CurveStore                  | `Launchpad`, `Solidity`                   | June 2026       |
+| NDA                  | `Launchpad`, `Rust`, `Solana`                   | May 2026       |
+| NDA                  | `DEX`, `Bridge`, `Solidity`                   | May 2026       |
 | [Gearbox (Securitize Integration)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-securitize-integration-audit-report-1.1.pdf)                   | `Farming`, `Leverage`, `Solidity`                   | May 2026       |
 | NDA                   | `CEX`, `Web2.5`                   | May 2026       |
 | NDA                   | `DEX`, `Cross-chain`, `Rust`, `Stellar`                   | April 2026       |
-| Flap                  | `Token`, `Solidity`                   | April 2026       |
+| Flap Dividend                  | `Token`, `Solidity`                   | April 2026       |
 | NDA                                        |  `Risk Assessment`, `Rust`, `Solana`            | March 2026  |
 | [1inch (Aqua & SwapVM Update)](https://github.com/Decurity/audits/blob/master/1inch/1inch-aqua-swapvm-audit-update-report-2026-1.1.pdf)                   | `DEX`, `Solidity`                   | February 2026       |
 | NDA                   | `Stablecoin`, `HTLC`, `Cross-chain`, `Web2.5`                   | January 2026       |
