@@ -39,7 +39,7 @@
 | [Gearbox (Curve & Pendle Oracles)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-curve-pendle-oracle-update-audit-report-1.1.pdf)                   | `Farming`, `Leverage`, `Solidity`                   | October 2025       |
 | NDA                   | `Stablecoin`, `HTLC`, `Cross-Chain`, `Solidity`                   | October 2025       |
 | Gearbox (Mellow Integration)                   | `Farming`, `Leverage`, `Solidity`                   | October 2025       |
-| Gearbox (Midas Integration)                   | `Farming`, `Leverage`, `Solidity`                   | October 2025       |
+| [Gearbox (Midas Integration)](https://github.com/Decurity/audits/blob/master/Gearbox/gearbox-midas-integration-audit-report-1.1.pdf)                   | `Farming`, `Leverage`, `Solidity`                   | October 2025       |
 | MortgageFi (Update)                   | `Lending`, `Solidity`                   | October 2025       |
 | 1inch (Fusion Update)     | `DEX`, `Cross-chain`, `Solidity`  | September 2025       |
 | NDA                   | `Solidity`                   | September 2025       |
